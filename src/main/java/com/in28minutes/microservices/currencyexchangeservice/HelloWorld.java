@@ -9,4 +9,9 @@ public class HelloWorld {
         return "Hello " + name;
     }
 
+    public void hello()
+    {
+        System.out.println("hello");
+    }
+
 }
